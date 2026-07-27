@@ -4,5 +4,5 @@ jobs:
   test-runner:  
   runs-on: ubuntu-latest  
     steps:  
-      - name: Print Status  
+      - name:  Say Hello
         run: echo "The Conveyor Belt is Operational. Hello DevSecOps!" 
